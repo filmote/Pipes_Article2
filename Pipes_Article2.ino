@@ -6,8 +6,6 @@
 #include "Images.h"
 #include "Puzzles.h"
 
-#define NO_SCREENSHOTS
-
 #define NOTHING                      0
 #define PIPE_HORIZONTAL_LR           1
 #define PIPE_HORIZONTAL_RL           2
