@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:leonardo",
+    "output": "../build",
+    "sketch": "Pipes_Article2.ino"
+}

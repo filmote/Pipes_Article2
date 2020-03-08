@@ -1,0 +1,26 @@
+/Users/simonholmes/projects/Pipes_Article2/..uild/libraries/Arduboy2/Arduboy2.cpp.o: \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/Arduboy2.cpp \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/Arduboy2.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBDesc.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBCore.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/variants/leonardo/pins_arduino.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM/src/EEPROM.h \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/Arduboy2Core.h \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/Arduboy2Beep.h \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/Sprites.h \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/SpritesCommon.h \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/SpritesB.h \
+ /Applications/Programming/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/Arduboy2Audio.h \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/ab_logo.c \
+ /Users/simonholmes/Documents/Arduino/libraries/Arduboy2/src/glcdfont.c
